@@ -1,6 +1,6 @@
 {
   "name": "@bennettp123/dummy-module",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "A dummy module that does exactly nothing",
   "main": "index.js",
   "module": "index.mjs",
