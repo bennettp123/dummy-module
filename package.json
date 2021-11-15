@@ -1,5 +1,5 @@
 {
-  "name": "dummy-module",
+  "name": "@bennettp123/dummy-module",
   "version": "1.0.0",
   "description": "A dummy module that does exactly nothing",
   "main": "index.js",
