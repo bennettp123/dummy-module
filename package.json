@@ -1,0 +1,22 @@
+{
+  "name": "dummy-module",
+  "version": "1.0.0",
+  "description": "A dummy module that does exactly nothing",
+  "main": "index.js",
+  "module": "index.mjs",
+  "scripts": {},
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennettp123/dummy-module.git"
+  },
+  "keywords": [
+    "dummy"
+  ],
+  "author": "Bennett Perkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bennettp123/dummy-module/issues"
+  },
+  "homepage": "https://github.com/bennettp123/dummy-module#readme"
+}
